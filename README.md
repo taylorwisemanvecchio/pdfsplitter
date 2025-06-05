@@ -14,7 +14,7 @@ How to Use
 
 1.  Launch the app (this is if you are running the script directly, I created an exe file so skipt to number two if you are using the PDF.exe):
 
-    `python pdf_splitter.py`
+    `PDF.py`
 
 2.  In the GUI:
 
@@ -47,11 +47,11 @@ These are the steps I followed to create a standalone .exe of the application to
 
 -   Name it `Package with PyInstaller`.
 
--   Set `Script path` to the file containing your main function (e.g., `pdf_splitter.py`).
+-   Set `Script path` to the file containing your main function (e.g., `PDF.py`).
 
 -   In **Parameters**, add:
 
-    `-F -w pdf_splitter.py`
+    `-F -w PDF.py`
 
     -   `-F`: Create a single-file executable
 
