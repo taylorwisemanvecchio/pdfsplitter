@@ -8,14 +8,6 @@ Justin@JustinVec.com
 
 I developed this tool to address a recurring workflow bottleneck. Our team was spending more time than ideal manually splitting large PDF files for another department, which introduced avoidable labor costs and potentially slowed down overall project turnaround. By automating the splitting process based on the table of contents, this solution helps reduce manual effort and significantly speeds up the delivery of finalized files to the department.
 
-Features
-----------
-
--   Extracts and filters TOC entries using `PyMuPDF`
-
--   Splits PDF pages using `PyPDF2` based on TOC titles
-
-
 
 How to Use
 -------------
